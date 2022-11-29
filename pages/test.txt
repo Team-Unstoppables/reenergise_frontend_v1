@@ -1,0 +1,1 @@
+https://maps.googleapis.com/maps/api/staticmap?center=28.4640132,77.4989274&zoom=18&size=800x400&maptype=satellite&scale=4&key=AIzaSyDYYY1xWo9eYMgRmaTDi43Ft5SNY7dDcF0

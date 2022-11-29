@@ -1,0 +1,19 @@
+*.log
+nuxt.d.ts
+
+# private config
+.env
+
+# deps
+node_modules
+package-lock.json
+
+# build or generate
+.nuxt
+dist
+.output
+sw.*
+# IDE
+.idea
+.vercel
+yarn.lock
