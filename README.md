@@ -60,25 +60,30 @@ Start the server
 ### Mobile PWA
 Home | Calculate Savings screen | Select Roof screen |
 --- | --- | --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/index.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/index.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/login_mobile.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/login_mobile.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/password.jpg" width="100%" height="100%" /> |
+<img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/home_mobile.jpg" data-canonical-src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/home_mobile.jpg" width="100%" height="100%" /> | <img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/calculate-savigs_mobile.png" data-canonical-src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/calculate-savigs_mobile.png" width="100%" height="100%" /> | <img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/select_roof_1_mobile%20.png" width="100%" height="100%" /> |
 
-| Results screen |
-| --- |
-| <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/cv.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/cv.jpg" width="100%" height="100%" /> |
+| Select Roof| Results screen | Results Screen |
+| --- | --- | --- |
+| <img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/select_roof_1_mobile%20.png" data-canonical-src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/select_roof_1_mobile%20.png" width="100%" height="100%" /> | <img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/savings_result_1_mobile.png" data-canonical-src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/savings_result_1_mobile.png" width="100%" height="100%" /> |  <img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/savings_result_2_mobile.png" data-canonical-src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/savings_result_2_mobile.png" width="100%" height="100%" /> |
 
 ### Desktop
 Home |
 --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/home.png" width="100%" height="100%" /> |
+<img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/home_web.png" width="100%" height="100%" /> |
+
+
+About Us |
+--- |
+<img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/about-us_web.png" width="100%" height="100%" /> |
 
 Calculate Savings screen |
 --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/login.png" width="100%" height="100%" /> |
+<img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/calculate-savigs_web.png" width="100%" height="100%" /> |
 
 Select Roof screen |
 --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/password.png" width="100%" height="100%" /> |
+<img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/select_roof_web.png" width="100%" height="100%" /> |
 
 Results screen |
 --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/cv.png" width="100%" height="100%" /> |
+<img src="https://github.com/Team-Unstoppables/reenergise_frontend_v1/blob/master/screenshots/savings_result_web.png" width="100%" height="100%" /> |
